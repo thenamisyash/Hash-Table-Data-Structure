@@ -80,7 +80,6 @@ function hasDuplicates(arrays) {
       return true;
     }
   }
-  // If no duplicates, return the map
   return map;
 }
 
